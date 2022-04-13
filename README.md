@@ -3,7 +3,7 @@
 My note and material provided by DeepLearning.AI for Structuring Machine Learning Projects course.
 I'll try to keep this repo updated when any new resources comes out, be it from DeepLearning.AI or from myself.
 
-#### Proof of my certification [here](https://www.coursera.org/account/accomplishments/certificate/XRXQX7R6D7KJ)
+#### Proof of my certification [here](https://coursera.org/share/0c6ab107c200f8e2b8c1252264330266)
 
 ## Copyright Notice
 These slides are distributed under the Creative Commons License.
